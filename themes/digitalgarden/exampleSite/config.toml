@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://sydboll.github.io/"
 languageCode = "en-us"
 title = "Personal Digital Garden"
 theme = "digitalgarden"
@@ -82,7 +82,7 @@ googleAnalytics = "UA-PROPERTY_ID"
   weight = 7
 [[menu.social]]
   name = 'Email'
-  url = 'mailto:user@example.org'
+  url = 'mailto:user@sydboll.github.io'
   weight = 8
 [[menu.social]]
   name = 'RSS'

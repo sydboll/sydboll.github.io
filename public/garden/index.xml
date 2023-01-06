@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>garden on Sydney Bollinger</title>
-    <link>https://example.org/garden/</link>
+    <link>https://sydboll.github.io/garden/</link>
     <description>Recent content in garden on Sydney Bollinger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/garden/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sydboll.github.io/garden/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

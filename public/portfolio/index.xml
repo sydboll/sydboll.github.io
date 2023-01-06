@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio (demo) on Sydney Bollinger</title>
-    <link>https://example.org/portfolio/</link>
+    <link>https://sydboll.github.io/portfolio/</link>
     <description>Recent content in Portfolio (demo) on Sydney Bollinger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sydboll.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pastry jelly cookie sugar donut orange</title>
-      <link>https://example.org/portfolio/design1/</link>
+      <link>https://sydboll.github.io/portfolio/design1/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/portfolio/design1/</guid>
+      <guid>https://sydboll.github.io/portfolio/design1/</guid>
       <description>Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
 Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
 Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
@@ -20,10 +20,10 @@ Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum s
     
     <item>
       <title>Cream sugar apple donut apple croissant</title>
-      <link>https://example.org/portfolio/design2/</link>
+      <link>https://sydboll.github.io/portfolio/design2/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/portfolio/design2/</guid>
+      <guid>https://sydboll.github.io/portfolio/design2/</guid>
       <description>Tiramisu sprinkles marzipan lollipop marzipan dolor. Jelly candy marzipan vanilla candy ipsum. Sugar croissant lollipop vanilla cream marzipan. Sprinkles croissant cream dolor jelly marzipan.
 Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
 Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
@@ -31,10 +31,10 @@ Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum s
     
     <item>
       <title>Apple cream vanilla apple marzipan muffin</title>
-      <link>https://example.org/portfolio/design3/</link>
+      <link>https://sydboll.github.io/portfolio/design3/</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/portfolio/design3/</guid>
+      <guid>https://sydboll.github.io/portfolio/design3/</guid>
       <description>Tiramisu sprinkles marzipan lollipop marzipan dolor. Jelly candy marzipan vanilla candy ipsum. Sugar croissant lollipop vanilla cream marzipan. Sprinkles croissant cream dolor jelly marzipan.
 Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
 Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
